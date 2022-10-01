@@ -1,19 +1,110 @@
 {
     "activityDays": {
-        "Day 0": [
-            {
-                "image": "",
-                "title": "",
-                "startsAt": "10/12/2022 7:30 AM",
-                "endAt": "10/12/2022 8:30 AM",
-            },
-            {
-                "image": "",
-                "title": "",
-                "startsAt": "10/12/2022 8:30 AM",
-                "endAt": "10/12/2022 9:30 AM",
-            }
-        ],
-        "Day 1": []
+        "Day 0": {
+            "date": "10/12/2022",
+            "activities": [
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/breakfast.png",
+                    "title": "Breakfast",
+                    "startsAt": "10/12/2022 7:30 AM",
+                    "endAt": "10/12/2022 8:30 AM",
+                }
+            ]
+        },
+        "Day 1": {
+            "date": "10/13/2022",
+            "activities": [
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/meditation.png",
+                    "title": "Yoga",
+                    "startsAt": "10/13/2022 7:30 AM",
+                    "endAt": "10/13/2022 8:00 AM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/breakfast.png",
+                    "title": "Breakfast",
+                    "startsAt": "10/13/2022 8:00 AM",
+                    "endAt": "10/13/2022 9:30 AM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/safety-collection.png",
+                    "title": "Assembly",
+                    "startsAt": "10/13/2022 10:30 AM",
+                    "endAt": "10/13/2022 11:00 AM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/crowd.png",
+                    "title": "Team Building",
+                    "startsAt": "10/13/2022 11:00 AM",
+                    "endAt": "10/13/2022 12:30 PM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/breakfast2.png",
+                    "title": "Lunch",
+                    "startsAt": "10/13/2022 12:00 PM",
+                    "endAt": "10/13/2022 2:30 PM"
+                }
+            ]
+        },
+        "Day 2": {
+            "date": "10/14/2022",
+            "activities": [
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/meditation.png",
+                    "title": "Yoga",
+                    "startsAt": "10/14/2022 7:30 AM",
+                    "endAt": "10/14/2022 8:00 AM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/breakfast.png",
+                    "title": "Breakfast",
+                    "startsAt": "10/14/2022 8:00 AM",
+                    "endAt": "10/14/2022 10:00 AM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/car.png",
+                    "title": "Personal Day",
+                    "startsAt": "10/14/2022 10:30 AM",
+                    "endAt": "10/14/2022 5:00 PM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/casino.png",
+                    "title": "Casino",
+                    "startsAt": "10/14/2022 7:00 PM",
+                    "endAt": "10/15/2022 1:00 AM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/wave.png",
+                    "title": "Back to the Resort",
+                    "startsAt": "10/15/2022 1:00 AM"
+                }
+            ]
+        },
+        "Day 3": {
+            "date": "10/15/2022",
+            "activities": [
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/breakfast.png",
+                    "title": "Breakfast",
+                    "startsAt": "10/15/2022 7:00 AM",
+                    "endAt": "10/15/2022 9:00 AM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/checkout.png",
+                    "title": "Check Out",
+                    "startsAt": "10/15/2022 10:00 AM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/airport.png",
+                    "title": "Reach Airport",
+                    "startsAt": "10/15/2022 11:00 AM",
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/flight.png",
+                    "title": "Board Flight",
+                    "startsAt": "10/15/2022 2:00 PM"
+                }
+            ]
+        }
     }
 }
