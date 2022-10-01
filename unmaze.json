@@ -1,0 +1,19 @@
+{
+    "activityDays": {
+        "Day 0": [
+            {
+                "image": "",
+                "title": "",
+                "startsAt": "10/12/2022 7:30 AM",
+                "endAt": "10/12/2022 8:30 AM",
+            },
+            {
+                "image": "",
+                "title": "",
+                "startsAt": "10/12/2022 8:30 AM",
+                "endAt": "10/12/2022 9:30 AM",
+            }
+        ],
+        "Day 1": []
+    }
+}
