@@ -1,23 +1,27 @@
 {
     "activityDays": {
-        "Day 0": {
-            "date": "10/12/2022",
+        "Day 1": {
+            "date": "10/13/2022",
             "activities": [
                 {
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/checkin.png",
-                    "title": "Check-in Process",
-                    "startsAt": "10/12/2022 4:30 PM",
-                    "endsAt": "10/12/2022 5:30 PM"
+                    "title": "Resort Check-in",
+                    "startsAt": "10/13/2022 3:30 PM"
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/surprise.png",
+                    "title": "Welcome Surprise",
+                    "startsAt": "10/13/2022 4:00 PM"
                 },
                 {
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/talent.png",
                     "title": "Evolutyz Got Talent",
-                    "startsAt": "10/12/2022 6:45 PM",
-                    "endsAt": "10/12/2022 10:00 PM"
+                    "startsAt": "10/13/2022 7:00 PM",
+                    "endsAt": "10/13/2022 10:00 PM"
                 }
             ]
         },
-        "Day 1": {
+        "Day 2": {
             "date": "10/14/2022",
             "activities": [
                 {
@@ -40,9 +44,8 @@
                 },
                 {
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/crowd.png",
-                    "title": "Team Building",
-                    "startsAt": "10/14/2022 11:00 AM",
-                    "endsAt": "10/14/2022 12:30 PM"
+                    "title": "Group Pictures",
+                    "startsAt": "10/14/2022 12:00 PM"
                 },
                 {
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/lunch.png",
@@ -51,38 +54,9 @@
                     "endsAt": "10/14/2022 2:30 PM"
                 },
                 {
-                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/unmaze.png",
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/unmaze2.png",
                     "title": "Unmaze",
-                    "startsAt": "10/14/2022 5:00 PM"
-                }
-            ]
-        },
-        "Day 2": {
-            "date": "10/14/2022",
-            "activities": [
-                {
-                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/wellness.png",
-                    "title": "Wellness",
-                    "startsAt": "10/14/2022 7:30 AM",
-                    "endsAt": "10/14/2022 8:00 AM"
-                },
-                {
-                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/breakfast2.png",
-                    "title": "Breakfast",
-                    "startsAt": "10/14/2022 8:00 AM",
-                    "endsAt": "10/14/2022 10:00 AM"
-                },
-                {
-                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/car.png",
-                    "title": "Personal Day",
-                    "startsAt": "10/14/2022 10:30 AM",
-                    "endsAt": "10/14/2022 5:00 PM"
-                },
-                {
-                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/surprise.png",
-                    "title": "Surprise",
-                    "startsAt": "10/14/2022 5:00 PM",
-                    "endsAt": "10/15/2022 1:00 AM"
+                    "startsAt": "10/14/2022 6:00 PM"
                 }
             ]
         },
@@ -92,19 +66,58 @@
                 {
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/wellness.png",
                     "title": "Wellness",
-                    "startsAt": "10/15/2022 7:00 AM",
-                    "endsAt": "10/15/2022 7:30 AM"
+                    "startsAt": "10/15/2022 8:00 AM",
+                    "endsAt": "10/15/2022 8:30 AM"
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/breakfast2.png",
+                    "title": "Breakfast",
+                    "startsAt": "10/15/2022 8:30 AM",
+                    "endsAt": "10/15/2022 10:00 AM"
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/car.png",
+                    "title": "Games",
+                    "startsAt": "10/15/2022 10:30 AM"
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/crowd.png",
+                    "title": "Team Building Activity",
+                    "startsAt": "10/15/2022 11:30 AM"
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/lunch.png",
+                    "title": "Lunch",
+                    "startsAt": "10/15/2022 12:30 PM",
+                    "endsAt": "10/15/2022 2:30 PM"
+                },
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/surprise.png",
+                    "title": "Surprise",
+                    "startsAt": "10/15/2022 5:30 PM",
+                    "endsAt": "10/15/2022 1:00 AM"
+                }
+            ]
+        },
+        "Day 4": {
+            "date": "10/16/2022",
+            "activities": [
+                {
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/wellness.png",
+                    "title": "Wellness",
+                    "startsAt": "10/16/2022 8:00 AM",
+                    "endsAt": "10/16/2022 8:30 AM"
                 },
                 {
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/breakfast.png",
                     "title": "Breakfast",
-                    "startsAt": "10/15/2022 7:30 AM",
-                    "endsAt": "10/15/2022 9:00 AM"
+                    "startsAt": "10/16/2022 8:30 AM",
+                    "endsAt": "10/16/2022 9:00 AM"
                 },
                 {
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/checkout.png",
                     "title": "Check Out",
-                    "startsAt": "10/15/2022 11:00 AM"
+                    "startsAt": "10/16/2022 11:00 AM"
                 }
             ]
         }
