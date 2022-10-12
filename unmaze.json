@@ -6,8 +6,7 @@
                 {
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/checkin.png",
                     "title": "Resort Check-in",
-                    "startsAt": "10/13/2022 3:30 PM",
-                    "url": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/html/Wellness1.html"
+                    "startsAt": "10/13/2022 3:30 PM"
                 },
                 {
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/surprise.png",
@@ -29,7 +28,8 @@
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/wellness.png",
                     "title": "Wellness",
                     "startsAt": "10/14/2022 7:00 AM",
-                    "endsAt": "10/14/2022 7:30 AM"
+                    "endsAt": "10/14/2022 7:30 AM",
+                    "url": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/wellness.png"
                 },
                 {
                     "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/breakfast2.png",
@@ -77,7 +77,7 @@
                     "endsAt": "10/15/2022 10:00 AM"
                 },
                 {
-                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/car.png",
+                    "image": "https://raw.githubusercontent.com/venkat88evolutyz/UnmazeResources/master/images/34BA5F2A-E915-4E0C-A14E-8914BB80E0DB.png",
                     "title": "Games",
                     "startsAt": "10/15/2022 10:30 AM"
                 },
